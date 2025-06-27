@@ -1,0 +1,5 @@
+instaloader
+pandas
+openpyxl
+beautifulsoup4
+requests
